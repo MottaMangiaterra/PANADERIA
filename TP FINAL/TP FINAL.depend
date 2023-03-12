@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1656380351 source:c:\users\motta\onedrive\documentos\facultad\utn\programacion y laboratorio 1\tp final\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1656591267 source:c:\users\motta\onedrive\documentos\facultad\utn\programacion y laboratorio 1\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
